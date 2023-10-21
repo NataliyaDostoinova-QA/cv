@@ -280,7 +280,7 @@ body {
 /* картинка Марио */
 .mario-img {
    /* размеры */
-   width: 4.1vw;
+   width: 5.48vw;
    height: 7.85vw;
 }
 
@@ -293,7 +293,7 @@ body {
    }
 
    .mario-img {
-      width: 5.76vw;
+      width: 7.71vw;
       height: 11.04vw;
    }
 }
@@ -307,7 +307,7 @@ body {
    }
 
    .mario-img {
-      width: 8.33vw;
+      width: 11.06vw;
       height: 15.83vw;
    }
 }
